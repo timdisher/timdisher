@@ -28,3 +28,4 @@ alongside primary data collection of daily parental out of pocket costs and vari
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm a half decent banjo player
 
+[Running simple set of tasks or concepts I find myself doing/explaining a lot](https://timdisher.github.io/commonTasks)
